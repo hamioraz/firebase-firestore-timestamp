@@ -1,6 +1,6 @@
 {
   "name": "firebase-firestore-timestamp",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Conversion of Firebase Firestore Timestamp to Date",
   "main": "index.js",
   "scripts": {
